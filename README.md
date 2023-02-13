@@ -1,7 +1,6 @@
 # Hi 👋, [iamSwaps](https://www.linkedin.com/in/swapnildadamode/)
 
-- JavaScript Developer
-- NodeJs / Angular / ReactJs
+I'm a JavaScript developer 
 
 ## My Skills
 [![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,postman,react,angular,nextjs,redux,vscode&perline=5)](https://skillicons.dev)
